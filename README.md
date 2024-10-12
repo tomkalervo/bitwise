@@ -1,2 +1,4 @@
 # bitwise
-content used in bitwise.foo
+- Content used in bitwise.foo
+- Contributions are appreciated
+  
